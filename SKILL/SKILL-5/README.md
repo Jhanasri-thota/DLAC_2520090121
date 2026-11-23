@@ -1,10 +1,6 @@
 # 🚦 VISIONPORT – Deep Learning Skill Lab
 ## SKILL-5: COCO Dataset Exploration – Indian Traffic Images, Categories and Bounding-Box Annotations
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![Platform](https://img.shields.io/badge/Platform-Google%20Colab-orange)
-![Dataset](https://img.shields.io/badge/Dataset-COCO128-green)
-![Domain](https://img.shields.io/badge/Domain-Deep%20Learning-purple)
 
 ## 📌 1. Project Overview
 
