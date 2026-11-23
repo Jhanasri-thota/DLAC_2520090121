@@ -2,11 +2,6 @@
 
 ### SKILL_1: Project Orientation and Deep Learning System Lifecycle Mapping
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![YOLOv8](https://img.shields.io/badge/Model-YOLOv8-green)
-![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-red?logo=opencv)
-![Google Colab](https://img.shields.io/badge/Platform-Google%20Colab-orange?logo=googlecolab)
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
 
